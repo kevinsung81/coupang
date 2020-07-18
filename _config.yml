@@ -1,7 +1,7 @@
 # Site
-name: "싸다구의 핫 세일 정보"
+name: "SSADAGU의 HOT SALE 정보"
 title: "싸다구의 핫 세일 정보"
-description: "싸다구의 상품 소개 사이트입니다."
+description: "SSADAGU의 HOT SALE 사이트입니다."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: /coupang
